@@ -1,5 +1,9 @@
 ## Face-Mask-Detection-Entry-System
 
+This is a desktop app created using tkinter and Arduino controller with a servo motor for controlling the door.
+
+The door remain open when the person entring keeps the mask on. And the door will get closed if the person is not wearing the mask.
+
 To use the project without getting into errors use the following versions for python libraries.
 
 ```
