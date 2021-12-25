@@ -6,6 +6,7 @@ The door remain open when the person entring keeps the mask on. And the door wil
 
 To use the project without getting into errors use the following versions for python libraries.
 
+
 ```
 python==3.6.8
 pip install tkinter
@@ -21,6 +22,7 @@ pip install pyfirmata
 python home.py
 ```
 
+****Don't forget to connect your arduino with the code using Ardiono IDE****
 
 # 🤝🏻 Connect with Me
 
