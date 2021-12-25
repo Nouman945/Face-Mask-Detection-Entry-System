@@ -8,6 +8,7 @@ To use the project without getting into errors use the following versions for py
 
 ```
 python==3.6.8
+pip install tkinter
 pip install tensorflow==1.15
 pip install keras==2.2.4
 pip install opencv-python
