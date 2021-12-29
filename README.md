@@ -6,6 +6,8 @@ The door remain open when the person entring keeps the mask on. And the door wil
 
 To use the project without getting into errors use the following versions for python libraries.
 
+Star the Repo if you like the Project. The [Weights](https://drive.google.com/file/d/1IjfvixIiBYoo8pw1pPDVuxzjKF4xGHXm/view?usp=sharing) can be downloaded from here !
+
 
 ```
 python==3.6.8
