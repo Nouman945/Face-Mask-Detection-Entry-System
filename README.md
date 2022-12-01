@@ -1,4 +1,4 @@
-## 😷 Face-Mask-Detection-Entry-System 😍❤
+## 😷 Face-Mask-Detection-Entry-System 
 
 This is a desktop app created using tkinter and Arduino controller with a servo motor for controlling the door.
 
